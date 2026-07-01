@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[1470,["177","static/chunks/app/layout-444bede855500a76.js"],""]
+3:I[7674,[],""]
+4:I[4328,[],""]
+:HL["/pages/Nosi-Inc/Nosi-legacy-dashboard-localbuild/_next/static/css/65c86350cdeca372.css","style"]
+0:{"rsc":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/pages/Nosi-Inc/Nosi-legacy-dashboard-localbuild/_next/static/css/65c86350cdeca372.css","precedence":"next"}]],["$","html",null,{"lang":"en","suppressHydrationWarning":true,"children":[["$","head",null,{"children":["$","$L2",null,{"src":"/pages/Nosi-Inc/Nosi-legacy-dashboard-localbuild/coi-serviceworker.min.js","strategy":"beforeInteractive"}]}],["$","body",null,{"className":"__variable_c19f2d __variable_d719c4 antialiased","suppressHydrationWarning":true,"children":["$","$L3",null,{"parallelRouterKey":"children","template":["$","$L4",null,{}]}]}]]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"TnFPl3DOxApJvGpVafLt7"}
