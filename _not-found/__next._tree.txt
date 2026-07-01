@@ -1,4 +1,4 @@
-:HL["/pages/Nosi-Inc/Nosi-legacy-dashboard-localbuild/_next/static/media/22a5144ee8d83bca-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/pages/Nosi-Inc/Nosi-legacy-dashboard-localbuild/_next/static/media/7d4881bb7e1bf84d-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/pages/Nosi-Inc/Nosi-legacy-dashboard-localbuild/_next/static/css/65c86350cdeca372.css","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"_not-found","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"TnFPl3DOxApJvGpVafLt7"}
+:HL["/Nosi-legacy-dashboard-localbuild/_next/static/media/22a5144ee8d83bca-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/Nosi-legacy-dashboard-localbuild/_next/static/media/7d4881bb7e1bf84d-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/Nosi-legacy-dashboard-localbuild/_next/static/css/ba334dc339897696.css","style"]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"_not-found","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"rAj2YJ1eb_qgbVvEVt8C6"}
