@@ -8,7 +8,7 @@ You can learn more about the Nosi student-side IDE using this [link](https://git
 
 The Nosi-dashboard is an interactive, web-based analytics platform designed for educators to audit and visually inspect students' coding workflows.
 
-[![Nosi dashboard screenshot](assets/nosi-dashboard-screenshot.png)](https://nosi-inc.github.io/Nosi-legacy-dashboard-localbuild/?demo=true)
+[![Nosi dashboard screenshot](assets/nosi-dashboard-screenshot.png)](https://bit.ly/nosi-demo)
 
 **Click on the image to try a live [demo](https://bit.ly/nosi-demo)!**
 
