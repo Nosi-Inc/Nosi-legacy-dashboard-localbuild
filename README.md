@@ -24,14 +24,24 @@ The Nosi-IDE and Nosi-dashboard provide scaling proctoring for coding assignment
 ### Visibility Filter
 The Visibility Filter operates on the primary submissions table, allowing instructors to isolate specific records based on standard workspace attributes.
 
+![nosi dashboard visibility filter](assets/nosi_visibility_filter.gif)
+
 ### Anamoly Filter
 The Anomaly Filter applies automated heuristics over the telemetry logs to generate warning badges (shown on the far right of the submission table).
+
+![nosi dashboard anomaly filter](assets/nosi_anomaly_filter.gif)
 
 ### Student Coding-process Replay
 The Replay workspace allows you to watch the literal evolution of a student's code, character-by-character. Press the `space bar` to play/pause the playback. Press `[`/`]` to step one step `backward`/`forward`. Stepping auto pauses the playback. Press `-`/`=` to `slow down` / `speed up` the playback. You can also use `WASD` or `HJKL` for the control. You can expand or collapse coding sessions and the copy-paste payload card to further inspecting them. Clicking on the active coding session, and the copy-paste payload jumps to that edit directly.
 
+![nosi dashboard visibility filter](assets/nosi_replay.gif)
+
 ### End Result Inspection
-The Inspect tab display the final submitted codebase alongside structural telemetry insights.
+The Inspect tab display the final submitted code alongside structural telemetry insights.
+
+![nosi dashboard inpect final submitted code](assets/nosi_inspect.gif)
 
 ### Diff Between Submission Inspect
 The Diff tab renders a side-by-side comparison between the current submission and the student's previous historic submission.
+
+![nosi dashboard diff between consecutive submissions](assets/nosi_diff.gif)
