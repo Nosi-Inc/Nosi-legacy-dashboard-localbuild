@@ -4,7 +4,7 @@ Nosi-dashboard is the instructor-side companion tool to the Nosi-IDE. Nosi-IDE i
 ## Nosi student-side IDE
 You can learn more about the Nosi student-side IDE using this [link](https://github.com/Nosi-Inc/Nosi-IDE#nosi-features-and-common-operations)
 
-## Nosi-dashboard [LIVE DEMO](https://nosi-inc.github.io/Nosi-legacy-dashboard-localbuild/?demo=true)]
+## Nosi-dashboard [LIVE DEMO](https://nosi-inc.github.io/Nosi-legacy-dashboard-localbuild/?demo=true)
 
 The Nosi-dashboard is an interactive, web-based analytics platform designed for educators to audit and visually inspect students' coding workflows.
 
