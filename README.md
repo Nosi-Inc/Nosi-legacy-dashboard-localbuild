@@ -27,7 +27,7 @@ The Visibility Filter operates on the primary submissions table, allowing instru
 ![nosi dashboard visibility filter](assets/nosi_visibility_filter.gif)
 
 ### Anamoly Filter
-The Anomaly Filter applies automated heuristics over the telemetry logs to generate warning badges (shown on the far right of the submission table).
+The Anomaly Filter applies automated heuristics over the telemetry logs to generate warning badges (shown on the far right of the submission table). After adjusting the visibility filter and the anamoly filter, you can collapse the filter settings and reclaim some real-estate to see more rows in the submissions table.
 
 ![nosi dashboard anomaly filter](assets/nosi_anomaly_filter.gif)
 
